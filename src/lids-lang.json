@@ -1,0 +1,18 @@
+{
+    "pl": {
+        "title": "Witaj w mojej wizytówce!",
+        "headline": "Cześć! Tu 'kilogrampaliwa'. Ponizej widzisz technologie, których używam w projektach bądź mam zamiar zgłębić w najbliższym czasie."
+    },
+    "en": {
+        "title": "Welcome to my portfolio!",
+        "headline": "Hi! I'm 'kilogrampaliwa'. Below you can see the technologies I use in my projects or plan to explore in the near future."
+    },
+    "de": {
+        "title": "Willkommen in meinem Portfolio!",
+        "headline": "Hallo! Ich bin 'kilogrampaliwa'. Unten siehst du die Technologien, die ich in meinen Projekten verwende oder bald vertiefen möchte."
+    },
+    "cat": {
+        "title": "Benvingut al meu portafoli!",
+        "headline": "Hola! Soc 'kilogrampaliwa'. A continuació pots veure les tecnologies que faig servir en els meus projectes o que tinc previst explorar aviat."
+    }
+}
