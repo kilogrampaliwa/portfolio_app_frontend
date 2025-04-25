@@ -79,7 +79,7 @@ function TechnologyList() {
       .then(data => {
         const updatedData = data.map(item => ({
           ...item,
-          image: '/images/' + item.image
+          image: + item.image
         }));
         setTableData(updatedData);
       });
